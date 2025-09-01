@@ -72,3 +72,13 @@ Module.symvers
 Mkfile.old
 dkms.conf
 /Debug/
+
+# Devenv
+.devenv*
+devenv.local.nix
+
+# direnv
+.direnv
+
+# pre-commit
+.pre-commit-config.yaml
